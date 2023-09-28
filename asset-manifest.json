@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/capstone-project-react-yb/static/css/main.1f779dbf.css",
+    "main.js": "/capstone-project-react-yb/static/js/main.b8f4ca2e.js",
+    "static/js/787.be55101f.chunk.js": "/capstone-project-react-yb/static/js/787.be55101f.chunk.js",
+    "static/media/restauranfood.jpg": "/capstone-project-react-yb/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo.svg": "/capstone-project-react-yb/static/media/Logo.f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/capstone-project-react-yb/index.html",
+    "main.1f779dbf.css.map": "/capstone-project-react-yb/static/css/main.1f779dbf.css.map",
+    "main.b8f4ca2e.js.map": "/capstone-project-react-yb/static/js/main.b8f4ca2e.js.map",
+    "787.be55101f.chunk.js.map": "/capstone-project-react-yb/static/js/787.be55101f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f779dbf.css",
+    "static/js/main.b8f4ca2e.js"
+  ]
+}
